@@ -1,5 +1,4 @@
-
-BankIt - A banking web app!
+## BankIt - A banking web app!
 
 A modern banking app built using JS, HTML, and CSS. Transfer money between accounts, request loans, and close account. Real time balance viewer, with dates, currency used, the ability to sort between types of balance, etc. Certain users use different monetary currencies, so there is functionality to convert between USD and Euros.
 
